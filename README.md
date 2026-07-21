@@ -1,15 +1,11 @@
 # My Image Gallery ✨
 
-A responsive, dynamic, and aesthetic image gallery web application built using **HTML5**, **CSS3**, and **JavaScript**. This project features category filtering, a dark blue glowing neon design, interactive lightbox popup modal, and custom end-of-album notifications.
+A responsive, dynamic, and aesthetic image gallery web application built using **HTML5**, **CSS3**, and **JavaScript**. This project features category filtering,used javascript for next/prev button and interactive lightbox popup modal,added hover effects and smooth transitions,ensures responsive design for different screen size and custom end-of-album notifications.
 
 
 
 ## 🌟 Features
 
-- **🎨 Aesthetic Dark Blue Glow Theme:**
-  
-   Designed with a modern deep navy background, pastel cyan accents, and neon glowing hover effects.
-  
 - **🏷️ Album Category Filtering:**
   
    Easily filter photos by categories including:
@@ -17,7 +13,11 @@ A responsive, dynamic, and aesthetic image gallery web application built using *
   - 🐾 Cute Baby Pets
   - 🎉 Fun & Outings
   - 👗 Girls Fashion
-  
+
+ - **✨ Hover Effects & Smooth Transitions:**
+   
+   Micro-interactions featuring glowing card borders, subtle image scaling, and fluid transitions on hover.
+   
 - **🔍 Interactive Lightbox View:**
   
   Click on any image to open a high-resolution, full-screen popup view.
