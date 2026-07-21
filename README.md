@@ -13,10 +13,10 @@ A responsive, dynamic, and aesthetic image gallery web application built using *
 - **🏷️ Album Category Filtering:**
   
    Easily filter photos by categories including:
-  . 🌿 Nature Magic
-  . 🐾 Cute Baby Pets
-  . 🎉 Fun & Outings
-  . 👗 Girls Fashion
+  - 🌿 Nature Magic
+  - 🐾 Cute Baby Pets
+  - 🎉 Fun & Outings
+  - 👗 Girls Fashion
   
 - **🔍 Interactive Lightbox View:**
   
