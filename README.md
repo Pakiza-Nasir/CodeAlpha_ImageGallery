@@ -1,6 +1,6 @@
 # My Image Gallery ✨
 
-A responsive, dynamic, and aesthetic image gallery web application built using **HTML5**, **CSS3**, and **JavaScript **. This project features category filtering, a dark blue glowing neon design, interactive lightbox popup modal, and custom end-of-album notifications.
+A responsive, dynamic, and aesthetic image gallery web application built using **HTML5**, **CSS3**, and **JavaScript**. This project features category filtering, a dark blue glowing neon design, interactive lightbox popup modal, and custom end-of-album notifications.
 
 
 
@@ -44,7 +44,7 @@ A responsive, dynamic, and aesthetic image gallery web application built using *
 - **CSS3:**
   Flexbox, CSS Grid, Glassmorphism backdrop filters, custom animations, and glowing keyframes.
   
-- **JavaScript :**
+- **JavaScript:**
   Event listeners, DOM manipulation, state management for lightbox and category filtering logic.
 
 ---
